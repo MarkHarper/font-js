@@ -1,0 +1,9 @@
+ul {
+  display: flex;
+  width: 90%;
+}
+
+li {
+  display: block;
+  width: 10%;
+}
