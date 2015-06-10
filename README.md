@@ -6,4 +6,4 @@ Technologies Used
 -Javascript (DOM for interactivity)
 -HTML & CSS
 
-The site is hosted on gh-pages @ <a>markharper.io/font-js</a>
+The site is hosted on gh-pages @ <a href="markharper.io/font-js">markharper.io/font-js</a>
